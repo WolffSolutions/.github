@@ -33,12 +33,10 @@ that feel great to use.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `bun` · `Vercel` · `Cloudflare Workers`
 
-## 📦 Open source
+## 📦 Our products
 
-- [**wolff-skills**](https://github.com/WolffSolutions/wolff-skills) — reusable agent skills, installable with the [`skills`](https://github.com/vercel-labs/skills) CLI:
-  ```bash
-  npx skills@latest add WolffSolutions/wolff-skills
-  ```
+- [**Venturo**](https://venturo.events) — an offline-first app for tracking events and reminders, with cross-device sync, shared lists, and push notifications.
+- [**Vitrine**](https://vitrinelistings.com) — a classified marketplace for items, vehicles, and homes, with transparent sorting and no paid ranking.
 
 ## 📫 Get in touch
 

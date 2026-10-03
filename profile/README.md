@@ -8,39 +8,33 @@
   <p><strong>Modern web development and digital experiments</strong></p>
 
   <p>
-    <a href="https://wolff.solutions">🌐 wolff.solutions</a>
+    <a href="https://wolff.solutions">wolff.solutions</a>
     &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/company/wolff-solutions-dev">💼 LinkedIn</a>
+    <a href="https://www.linkedin.com/company/wolff-solutions-dev">LinkedIn</a>
   </p>
 </div>
 
 ---
 
-## 👋 Hello
+Wolff Solutions builds fast, accessible web products and experiments with new web
+platform features before they become the obvious choice.
 
-**Wolff Solutions** builds fast, modern web experiences — production sites and
-experimental labs alike. We care about performance, polish, and shipping things
-that feel great to use.
+## Products
 
-## 🧭 What we do
+- [**Venturo**](https://venturo.events): an offline-first app for tracking events and reminders, with cross-device sync, shared lists and push notifications.
+- [**Vitrine**](https://vitrinelistings.com): a classified marketplace for items, vehicles and homes, with transparent sorting and no paid ranking.
 
-- **Web development** — performant, accessible apps built on Next.js & React
-- **Digital solutions** — product sites, PWAs, and the tooling around them
-- **Experimental labs** — prototypes that push modern web APIs
-- **Innovation** — trying the new thing before it's the obvious thing
+## What we do
 
-## 🛠️ Tech we reach for
+- **Web development**: performant, accessible apps built with Next.js and React.
+- **Digital products**: product sites, PWAs and the tooling around them.
+- **Labs**: prototypes that push modern web APIs. See [wolff.solutions/labs](https://wolff.solutions/labs).
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `bun` · `Vercel` · `Cloudflare Workers`
+## Stack
 
-## 📦 Our products
+`TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Bun` · `Cloudflare Workers` · `Vercel`
 
-- [**Venturo**](https://venturo.events) — an offline-first app for tracking events and reminders, with cross-device sync, shared lists, and push notifications.
-- [**Vitrine**](https://vitrinelistings.com) — a classified marketplace for items, vehicles, and homes, with transparent sorting and no paid ranking.
+## Contact
 
-## 📫 Get in touch
-
-- Website — [wolff.solutions](https://wolff.solutions)
-- LinkedIn — [Wolff Solutions](https://www.linkedin.com/company/wolff-solutions-dev)
-
-<div align="center"><sub>Built with care by Wolff Solutions.</sub></div>
+- Website: [wolff.solutions](https://wolff.solutions)
+- LinkedIn: [Wolff Solutions](https://www.linkedin.com/company/wolff-solutions-dev)

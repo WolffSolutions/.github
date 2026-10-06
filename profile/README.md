@@ -23,6 +23,7 @@ platform features before they become the obvious choice.
 
 - [**Venturo**](https://venturo.events): an offline-first app for tracking events and reminders, with cross-device sync, shared lists and push notifications.
 - [**Vitrine**](https://vitrinelistings.com): a classified marketplace for items, vehicles and homes, with transparent sorting and no paid ranking.
+- [**Capsula**](https://capsula.run): a native iOS home for offline-first web apps, with room for WebAssembly and native code.
 
 ## What we do
 

@@ -22,7 +22,7 @@ platform features before they become the obvious choice.
 ## Products
 
 - [**Venturo**](https://venturo.events): an offline-first app for tracking events and reminders, with cross-device sync, shared lists and push notifications.
-- [**Brique**](https://brique.club): a classified marketplace for items, vehicles and homes, with transparent sorting and no paid ranking.
+- [**BRique Club**](https://brique.club): a classified marketplace for items, vehicles and homes, with transparent sorting and no paid ranking.
 - [**Capsula**](https://capsula.run): a native app wrapper for offline-first web and WebAssembly apps.
 
 ## What we do
